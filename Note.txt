@@ -1,0 +1,7 @@
+Strange Bug:
+
+If you are getting a nullptr that is making the code crash, that is because the GPS value I am trying to obtain is not
+working. I'm assuming it is a permission glitch. Comment out lines 170-338 and run the code. Uncomment the lines and
+run the code again. The GPS should now be working.
+
+
